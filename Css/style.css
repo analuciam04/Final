@@ -1,0 +1,21 @@
+.bar{
+    background-color: lightseagreen;
+    color: white;
+    height: 125px;
+    font-family: 'Muli', sans-serif;
+    font-weight: bold;
+    font-size: 65px;
+    display: flex;
+    
+}
+.font{
+    padding-top: 18px;
+    justify-content: flex-end;
+}
+
+.search{
+    display: inline-block;
+    justify-content: end;
+    height: 75px;
+    
+}
